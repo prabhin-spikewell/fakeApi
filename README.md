@@ -1,2 +1,2 @@
 # fakeApi
-This is just a fake api to work with asset tracking application.
+This is just a fake api to work with random application.
