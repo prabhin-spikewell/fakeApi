@@ -1,0 +1,38 @@
+[
+  {
+    "name": "chair1",
+    "category": "wheelchairs",
+    "subcategory": "manual wheelchairs",
+    "mac_address": "12:23:45:56:33:DF",
+    "description": "some description",
+    "external_id": "ijdh8",
+    "UUID": "irufy9w78y"
+  },
+  {
+    "name": "pump 1",
+    "category": "IV Pumps",
+    "subcategory": null,
+    "mac_address": "12:23:45:56:33:DF",
+    "description": "some description",
+    "external_id": "ijdh8",
+    "UUID": "irufy9w78y"
+  },
+  {
+    "name": "Stretcher 1",
+    "category": "Stretchers",
+    "subcategory": null,
+    "mac_address": "12:23:45:56:33:DF",
+    "description": "desc",
+    "external_id": "ijdh8",
+    "UUID": "irufy9w78y"
+  },
+  {
+    "name": "Monitor 4",
+    "category": "Patient Monitors",
+    "subcategory": null,
+    "mac_address": "12:23:45:56:33:DF",
+    "description": "desc",
+    "external_id": "ijdh8",
+    "UUID": "irufy9w78y"
+  }
+]
